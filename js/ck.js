@@ -22,7 +22,7 @@ $(document).ready(function(){
                         clearKeys: {
                             // 'key-id-in-hex': 'key-in-hex',
                             'TTgGC/QbPCnfDslQ7Oa12g': 'fulQaxNIBJHXm3HAYqtTZg',
-                          }
+                        }
                     }
                 });
     
