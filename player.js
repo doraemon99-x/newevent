@@ -21,6 +21,7 @@ $(document).ready(function(){
                     drm: {
                         clearKeys: {
                             '4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366',
+                            '9ba3e153ef8956d6e2b0684fcf74f58f': 'dbc28cb5c6426080f984a5b6d436bb30',
                         }
                     }
                 });
