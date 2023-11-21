@@ -19,11 +19,12 @@ $(document).ready(function(){
     
                 player.configure({
                     drm: {
-                        servers: {
-                            'clearKeys': window.atob(data.drm),
+                        clearKeys: {
+                          // 'key-id-in-hex': 'key-in-hex',
+                            '4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366',
                         }
                     }
-                });
+                    });
     
                 player.load(window.atob(data.widevine))
                     .then(function () {
