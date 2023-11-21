@@ -20,7 +20,7 @@ $(document).ready(function(){
                 player.configure({
                     drm: {
                         clearKeys: {
-                            'TTgGC/QbPCnfDslQ7Oa12g': 'fulQaxNIBJHXm3HAYqtTZg',
+                            '4d38060bf41b3c29df0ec950ece6b5da': '7ee9506b13480491d79b71c062ab5366',
                         }
                     }
                 });
