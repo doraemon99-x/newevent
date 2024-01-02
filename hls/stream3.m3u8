@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2530543,RESOLUTION=1280x720,CODECS="avc1.4d4020,mp4a.40.2"
-https://headlinessportsfoot.com/chunklist/hlsch2.m3u8
+https://cors-anywhere.herokuapp.com/https://etslive-2-vidio-com.akamaized.net/exp=1704214165~acl=/hls-b/ingest_16836_*/*~hmac=c45f337541d779b559c8368c882c1f5a952e62470665c9c7bae342b5ad2c9628/hls-b/ingest_16836_240p/index.m3u8
